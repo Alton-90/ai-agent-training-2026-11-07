@@ -1,0 +1,14 @@
+# Office temporary files
+~$*
+*.tmp
+
+# Local secrets and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
