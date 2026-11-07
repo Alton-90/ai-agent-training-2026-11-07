@@ -4,7 +4,9 @@
 
 ## 下载课件
 
-[下载 PowerPoint 课件：AI agent培训_11.3.pptx](./AI%20agent培训_11.3.pptx?raw=true)
+[直接下载 PowerPoint 课件：AI agent培训_11.3.pptx](https://raw.githubusercontent.com/Alton-90/ai-agent-training-2026-11-07/main/AI%20agent%E5%9F%B9%E8%AE%AD_11.3.pptx)
+
+[备用下载：整个仓库 ZIP](https://github.com/Alton-90/ai-agent-training-2026-11-07/archive/refs/heads/main.zip)（下载后解压，打开其中的 PPTX 文件。）
 
 当前版本为 11 月 3 日整理的 30 页课件。下载后可使用 Microsoft PowerPoint 等支持 PPTX 的软件查看；内嵌视频的播放效果取决于本地软件支持。
 
